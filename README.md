@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm YoTi</h1>
+<h1 align="center">Hi 👋, I'm Mohamed Amine Chakib</h1>
 <h3 align="center">A Passionate Full-Stack Developer from Morocco</h3>
 
 <p align="center">
@@ -10,12 +10,10 @@
 
 ---
 
-### 🚀 **About Me**
-- 🔭 I’m currently working on **VM in C**  
-- 🌱 I’m learning **Low-Level Programming, Rust, and Full-Stack Technologies**  
+### 🚀 **About Me** 
+- 🌱 I’m learning **Full-Stack Technologies**  
 - 💬 Ask me about **Backend, C, Rust, Java, and System Programming**  
-- 📫 Reach me via **yoti1412@yandex.com**  
-- ⚡ Fun Fact: **"The root of everything is zero and one."**  
+- 📫 Reach me via **aminechakib2003@gmail.com**  
 
 ---
 
